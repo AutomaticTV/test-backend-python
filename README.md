@@ -1,4 +1,4 @@
-# Test for Backend Software Engineer - Python
+# Backend Software Engineer (Python) Test
 
 ## Task
 SCHEDULER API:
@@ -45,7 +45,7 @@ task: {id, start, title, worker, status, payload}
 // before
 {"id":"eea97a6", start:"20160718T01", "status": "SCHEDULED", "payload": {"key1": "value1", "key2" = [1,2,3]}}
 ```
-**`PATCH /api/task/eea97a6/payload {"key3":{"key3_1":"value3_1"}}`**
+*`PATCH /api/task/eea97a6/payload {"key3":{"key3_1":"value3_1"}}`*
 
 ``` javascript
 // after
