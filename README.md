@@ -66,7 +66,7 @@ task: {id, start, title, worker, status, payload}
 
 ## Aspects to evaluate
 
-### Languaje and libraries
+### Language and libraries
 * Python
 * any available package on PyPi
 
@@ -86,7 +86,7 @@ task: {id, start, title, worker, status, payload}
 * Which database is chosen, if any
 * What packages are chosen, if any
 
-### Recomendations:
+### Recommendations:
 * using unit test
 * using documentation
 * using PEP8 coding style
