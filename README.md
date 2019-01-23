@@ -91,3 +91,4 @@ task: {id, start, title, worker, status, payload}
 * using documentation
 * using PEP8 coding style
 * using logger output
+* using git
